@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>inclineCSS</title>
+</head>
+<body>
+<h1 style="color:red;text-aligned:center">
+Hello WOrld
+</h1>
+</body>
+</html>
